@@ -1,6 +1,9 @@
 # imageReading-using-Python
 
-Write a function for reading in a list of images from a text file. \n
+the images are processed using opencv+python in this project
+https://pypi.org/project/opencv-python/
+
+Write a function for reading in a list of images from a text file.
 
 Specifically, the function should have a single argument, which is the path to the text file to be read. 
 
